@@ -667,13 +667,13 @@ uglyURLs = false
     trackingCodeType = "gtag"
     # 说明：gtag 或 analytics
 
-    trackingID = ""
+    trackingID = "G-0X04NV2YLH"
 
 
     ######################################
     # Google Site Verification
 
-    googleSiteVerification = ""
+    googleSiteVerification = "jfiTzJL4QReMSaJi0l8TDoVyg56AXdg6uPW8b4lVeaU"
 
 
     ######################################
