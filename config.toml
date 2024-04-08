@@ -12,11 +12,11 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 theme = "meme"
 
 # `hugo new` 新建文章自动打开的文本编辑器
-newContentEditor = ""
+newContentEditor = "vim"
 
 # i18n
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+# defaultContentLanguageInSubdir = true
 
 # 是否复数化列表页面的标题
 pluralizeListTitles = false
