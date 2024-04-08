@@ -1117,7 +1117,7 @@ uglyURLs = false
     # 是否开启
     enablePostShare = false
 
-    displayPostShare = true
+    # displayPostShare = true
     displayPostShare = false
     # 说明：文章的 Front Matter 中的 `share`
     #      的优先级高于此处
